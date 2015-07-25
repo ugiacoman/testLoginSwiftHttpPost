@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "d8ac747554b5bac17f486f6a34aefc45"
+inputs: 
+- !dirty "/Users/Ulises/Documents/Projects/Test Login/Carthage/Checkouts/Just/Just/Just.swift"

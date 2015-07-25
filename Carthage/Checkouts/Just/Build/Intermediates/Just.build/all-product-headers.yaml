@@ -1,0 +1,28 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Ulises/Documents/Projects/Test Login/Carthage/Checkouts/Just/Build/Products/Release-iphonesimulator/Just.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Just-Swift.h",
+          'external-contents': "/Users/Ulises/Documents/Projects/Test Login/Carthage/Checkouts/Just/Build/Products/Release-iphonesimulator/Just.framework/Headers/Just-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Ulises/Documents/Projects/Test Login/Carthage/Checkouts/Just/Build/Products/Release-iphonesimulator/Just.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Ulises/Documents/Projects/Test Login/Carthage/Checkouts/Just/Build/Intermediates/Just.build/Release-iphonesimulator/Just-iOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
